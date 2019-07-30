@@ -76,7 +76,7 @@ body {
   font-style: normal;
   font-weight: normal;
   line-height: 1.765;
-  color: #555555;
+  color: #FFFFFF;
   margin: 0;
   padding: 0;
 }
@@ -2378,7 +2378,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  color: #555555;
+  color: #FFFFFF;
   position: relative;
 }
 
